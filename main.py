@@ -44,4 +44,4 @@ for img in image_source:
     wget.download(img, save_as)
     counter += 1
 
-print('Done!')
+print('\nDone!')
