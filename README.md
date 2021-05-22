@@ -1,2 +1,2 @@
 # Google image scraping
-Scraping the images from google to train the model (28 x 28)
+Scraping the images from google to train the model
